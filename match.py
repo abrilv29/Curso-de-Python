@@ -31,3 +31,4 @@ match frutas:
         print("naranja dulce")
     case _:
         print("No es una fruta válida")
+        
